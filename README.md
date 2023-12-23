@@ -1,5 +1,5 @@
 # Bike-Sharing-Demand-Prediction
-![Uploading image.png…]()
+![image](https://github.com/Mangesh1998/Bike-Sharing-Demand-Prediction/assets/122073772/4f88e194-e5d5-4387-b2cd-310f717392f9)!
 
 Introduction
 Over the last few decades, there has been a significant increase in the popularity of bike-sharing systems 
